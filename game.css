@@ -1,0 +1,14 @@
+body{
+  background-color: white;
+  text-align: center;
+}
+
+
+.larg{
+  width: 70px;
+  height: 70px;
+  display: inline-block;
+  background-color: white;
+  border-radius: 50px;
+  margin: 10px;
+}
